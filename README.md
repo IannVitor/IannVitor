@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Iann Vitor Souza de Lima<br><br>Sou um estudante de engenharia da computação de 19 anos e trabalho na JF Softwares. Tenho uma grande paixão por jogos e hardware, e estou focado em crescer como programador. Sempre em busca de aprender e melhorar minhas habilidades!<br><br>O que eu faço<br>💻 Estudo engenharia da computação<br>🛠️ Explorando tecnologias Java como JSF e PrimeFaces<br>🎮 Mergulhando no mundo dos games e setups de hardware<br><br>O que eu desejo<br>🚀 Crescer como desenvolvedor de software<br>🤝 Colaborar em projetos interessantes<br>📚 Continuar aprendendo e dominando novas tecnologias<br><br>Curiosidade<br>Estou montando meu próprio PC gamer enquanto aprendo a otimizar desempenho e escolher o melhor hardware!
 
 
